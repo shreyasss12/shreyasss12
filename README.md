@@ -1,4 +1,9 @@
-### Hi there 👋
+###
+Hey there, fellow gamers and devs!
+
+Welcome to my little corner of the gaming universe 🎮
+I'm a game developer whose passion meets pixels 🚀
+
 
 <!--
 **shreyasss12/shreyasss12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
