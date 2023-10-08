@@ -1,8 +1,5 @@
 ###
-Hey there, fellow gamers and devs!
 
-Welcome to my little corner of the gaming universe 🎮
-I'm a game developer whose passion meets pixels 🚀
 
 
 <!--
