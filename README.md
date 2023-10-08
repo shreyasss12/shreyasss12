@@ -1,6 +1,6 @@
 👋 Hey there, fellow internet adventurer!
 
- I'm Shreyas, a web sorcerer by day, and a pixel warrior by night. 💻🌙
+ I'm Shreyas, your friendly neighborhood web developer.💻
 
 🌐 I'm all about creating cool websites that are like a fine wine 🍷 - it gets better with age (or maybe just more complex).
 
