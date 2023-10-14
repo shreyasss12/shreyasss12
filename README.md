@@ -2,7 +2,7 @@
 
  I'm Shreyas, your friendly neighborhood web developer.💻
 
-🌐 I'm all about creating cool websites that are like a fine wine 🍷 - it gets better with age (or maybe just more complex).
+
 
 🚀 Let's team up and build some web magic together! Check out my projects below. 🌟
 
