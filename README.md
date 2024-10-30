@@ -1,12 +1,5 @@
-👋 Hey there, fellow internet adventurer!
+Hey !! 
 
- I'm Shreyas, your friendly neighborhood web developer.💻
-
-
-
-🚀 Let's team up and build some web magic together! Check out my projects below. 🌟
-
- 📫 Hit me up at : shreyaschalke8@gmail.com
 
 <!--
 **shreyasss12/shreyasss12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
