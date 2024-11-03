@@ -1,4 +1,6 @@
-Hey !! 
+Hey, I'm Shreyas Chalke !👋 
+
+I often deal more with bugs 🐞 than anxitey.
 
 
 <!--
