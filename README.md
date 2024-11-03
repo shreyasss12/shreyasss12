@@ -1,6 +1,6 @@
-Hey, I'm Shreyas Chalke !👋 
+# Hey, I'm Shreyas Chalke! 👋
 
-I often deal more with bugs 🐞 than anxitey.
+I often deal more with bugs 🐞 than anxiety. 
 
 
 <!--
